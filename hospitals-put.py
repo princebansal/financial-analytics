@@ -6,18 +6,18 @@ headers_list = [
         "name": "NKS hospital location",
         "address": "gulabi bagh",
         "maps_link": "https://goo.gl/maps/Qk2q3dKerjthKxPV9",
-        "contact": [+911123666666],
+        "contact": [+911123666666, +919090928291],
         "oxygen": {
             "required": 100,
             "current": 20,
-            "comment": "",
+            "comment": "2 hrs of oxygen left",
             "lastUpdated": ""
         }
     }
 ]
 
 
-url = 'https://co-ox9-default-rtdb.asia-southeast1.firebasedatabase.app/cities/-MZh0evZGFhGlnqDjFWr/hospitals.json'
+url = 'https://co-ox9-default-rtdb.asia-southeast1.firebasedatabase.app/hospitals/-MZh0evZGFhGlnqDjFWr.json'
 # # Get a proxy from the pool
 try:
 
