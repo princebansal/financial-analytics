@@ -6,7 +6,7 @@ const { Title } = Typography;
 const { Search } = Input;
 
 function OxygenTrackerResults(props) {
-  const { results, user, firebaseRef, cityId } = props;
+  const { results, user, cityId } = props;
   const [filteredResults, setFilteredResults] = useState(null);
 
   function onSearch(value) {
@@ -43,7 +43,6 @@ function OxygenTrackerResults(props) {
           renderItem={(item) => (
             <List.Item>
               <HospitalResultItem
-                firebaseRef={firebaseRef}
                 data={results[item]}
                 hospitalId={item}
                 user={user}

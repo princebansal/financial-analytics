@@ -18,7 +18,7 @@ import { EditOutlined } from "@ant-design/icons";
 const { Title, Paragraph, Text, Link } = Typography;
 
 function HospitalResultItem(props) {
-  const { data, user, hospitalId, firebaseRef, cityId } = props;
+  const { data, user, hospitalId, cityId } = props;
   const [showEdit, setShowEdit] = useState(false);
   const [showEditModal, setShowEditModal] = useState(false);
   const [editLoading, setEditLoading] = useState(false);
@@ -50,30 +50,8 @@ function HospitalResultItem(props) {
       return;
     }
     setEditLoading(true);
-    firebaseRef
-      .database()
-      .ref()
-      .child("hospitals")
-      .child(cityId)
-      .child(hospitalId)
-      .child("oxygen")
-      .update(
-        {
-          current: currentOxygen,
-          required: totalCapacity,
-          comment: comments,
-          lastUpdated: new Date().toLocaleString(),
-        },
-        (error) => {
-          setEditLoading(false);
-          if (error) {
-            setEditError(true);
-          } else {
-            setShowEditModal(false);
-            message.info("Successfully updated");
-          }
-        }
-      );
+    
+    
   }
   function handleCancel() {
     setTotalCapacity(data.oxygen.required);

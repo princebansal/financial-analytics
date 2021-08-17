@@ -1,0 +1,127 @@
+[
+    {
+       "Review":"RIL is an established player in the oil & gas sector, with two coastal refineries having a combined refining capacity of 1.24 million barrels per day (mbpd), and also the largest refining complex at a single location globally. Crude oil requirements of RIL are largely met through imports and the sheer size of the operations enables RIL to procure crude oil through Very Large Crude Carriers (VLCC) which results in competitive oceanic freight. Further, the company has product placement flexibility due to its ability to manufacture over 20 grades of petrol and diesel and proximity to the shore. Overall, RIL has a significant competitive edge over other global and domestic refineries due to its large scale of operations with capability to process wide varieties of crude, including some of the heaviest grades of crude as well as flexibility to manufacture products of high standards. ",
+       "sentiment":"POS",
+       "postivePharses":[
+          
+       ],
+       "negativePharses":[
+          "24 million barrels per day (mbpd), and also the largest refining complex at a single location globally",
+          " Crude oil requirements of RIL are largely met through imports and the sheer size of the operations enables RIL to procure crude oil through Very Large Crude Carriers (VLCC) which results in competitive oceanic freight",
+          " Further, the company has product placement flexibility due to its ability to manufacture over 20 grades of petrol and diesel and proximity to the shore",
+          " Overall, RIL has a significant competitive edge over other global and domestic refineries due to its large scale of operations with capability to process wide varieties of crude, including some of the heaviest grades of crude as well as flexibility to manufacture products of high standards"
+       ]
+    },
+    {
+       "Review":"Let us now talk a little bit about the quarter. So in the context, which Pankaj pointed out, it was challenging because we were fraught with store closures. We had discretionary spending and footfall starting to taper off in the latter fortnight of February. The fact that we had supply disruptions on a key product line of devices, which impacted our electronics sales growth for the quarter, we were still able to turn in growth this quarter. So, overall segment gross revenue growth 4%. However, if it wasn\\u2019t for the COVID impact to set in, our growth would settle at levels, which you had been used to seeing in the last few quarters. If I just take Jan & Feb when it was business more usual, our growth rates were at 33%, excluding the impact of devices where we were fraught with a supply shortfall arising after disruption of China. LFL, like for like, was a very, very healthy double-digit but that got offset in the March month after the store shutdowns and the lockdowns happened. So 4% growth but chugging along at 33% for Jan & Feb. As we look at the quarter, clearly multiple moving parts across the consumption baskets\\u2026 electronics and fashion & lifestyle had a challenge because clearly the stores on those businesses had to shut down, after the Janata curfew and the lockdown. Grocery, which rose to the occasion as our stores across the country stood out to really be able to support the need for essentials for our customers.. was able to make up and bridge a lot of that gap. Looking at the revenue performance across the consumption baskets \\u2013 and I\\u2019ve deliberately put in to give you a flavour of how business looked like in Jan & Feb because that was the normal rhythm of business and that is the kind of growth you\\u2019ve been used to seeing. In Jan, Feb the consumer electronics business, excluding the devices impact, where we were fraught with a supply issue, was growing at 41%. but then the store closures and devices had a bit of an aberration in terms of the growth this quarter and actually declined. Fashion and lifestyle, which was chugging along at 42% at the end of Jan and Feb came in flattish with the store closures.Grocery went from strength to strength 35% and then ended the quarter at 44%. Connectivity with all the fantastic work that happened in Jio ended up with 26% for the quarter and that is the reason why 33% at the end of Jan-Feb came down to 4% with the impact of March.",
+       "sentiment":"NEG",
+       "postivePharses":[
+          " So in the context, which Pankaj pointed out, it was challenging because we were fraught with store closures",
+          " The fact that we had supply disruptions on a key product line of devices, which impacted our electronics sales growth for the quarter, we were still able to turn in growth this quarter",
+          " If I just take Jan & Feb when it was business more usual, our growth rates were at 33%, excluding the impact of devices where we were fraught with a supply shortfall arising after disruption of China",
+          " LFL, like for like, was a very, very healthy double-digit but that got offset in the March month after the store shutdowns and the lockdowns happened",
+          " Grocery, which rose to the occasion as our stores across the country stood out to really be able to support the need for essentials for our customers",
+          " was able to make up and bridge a lot of that gap",
+          " Looking at the revenue performance across the consumption baskets \\u2013 and I\\u2019ve deliberately put in to give you a flavour of how business looked like in Jan & Feb because that was the normal rhythm of business and that is the kind of growth you\\u2019ve been used to seeing",
+          " Connectivity with all the fantastic work that happened in Jio ended up with 26% for the quarter and that is the reason why 33% at the end of Jan-Feb came down to 4% with the impact of March"
+       ],
+       "negativePharses":[
+          "Let us now talk a little bit about the quarter",
+          " However, if it wasn\\u2019t for the COVID impact to set in, our growth would settle at levels, which you had been used to seeing in the last few quarters",
+          " As we look at the quarter, clearly multiple moving parts across the consumption baskets\\u2026 electronics and fashion & lifestyle had a challenge because clearly the stores on those businesses had to shut down, after the Janata curfew and the lockdown"
+       ]
+    },
+    {
+       "Review":"So, let me now zoom in and give you a sense on the fourth quarter. Let me start with the operating context and I call it out since this was the operating context till March, because as we\\'re all aware, things have changed quite dramatically since then. But really, we thought the operating context was coming back, was inching back towards normal, not quite the pre-COVID normal, but clearly a normal that, that had been building up with each progressive quarter. Our stores were open about 95%, our stores were open across the network. Footfalls were coming back, improving quarter after quarter - 75% in quarter 3, 88% in quarter 4. And directionally it was starting to come back and restrictions and limitations across the geographies, were starting to ebb and ease out. ",
+       "sentiment":"NEG",
+       "postivePharses":[
+          " Let me start with the operating context and I call it out since this was the operating context till March, because as we\\'re all aware, things have changed quite dramatically since then",
+          " But really, we thought the operating context was coming back, was inching back towards normal, not quite the pre-COVID normal, but clearly a normal that, that had been building up with each progressive quarter"
+       ],
+       "negativePharses":[
+          
+       ]
+    },
+    {
+       "Review":"So, against the backdrop of this environment, the fourth quarter was clearly a landmark quarter for Reliance Retail. Our revenues were at an all-time high - our quarterly revenues, and our quarterly EBITDA was at all time high as well. We were back to the commentary that you\\'ve been used to hearing from Reliance Retail before COVID had struck. The fact that our growth was broad based, all categories, delivering very strong performances",
+       "sentiment":"POS",
+       "postivePharses":[
+          "So, against the backdrop of this environment, the fourth quarter was clearly a landmark quarter for Reliance Retail",
+          " Our revenues were at an all-time high - our quarterly revenues, and our quarterly EBITDA was at all time high as well",
+          " The fact that our growth was broad based, all categories, delivering very strong performances"
+       ],
+       "negativePharses":[
+          
+       ]
+    },
+    {
+       "Review":"It is another quarter of strong EBITDA delivery and the profit after tax has now crossed a milestone of Rs 2,000 crores for the first time. The pace of new store expansion has stepped up, and you\\'ll see this reflected in a couple of slides from now, in quarter four was higher than all the preceding quarters put together. And we\\'ve continued to scale up digital commerce, and merchant partnerships across our business.",
+       "sentiment":"POS",
+       "postivePharses":[
+          "It is another quarter of strong EBITDA delivery and the profit after tax has now crossed a milestone of Rs 2,000 crores for the first time",
+          " The pace of new store expansion has stepped up, and you\\'ll see this reflected in a couple of slides from now, in quarter four was higher than all the preceding quarters put together"
+       ],
+       "negativePharses":[
+          
+       ]
+    },
+    {
+       "Review":"So, talking a little bit about revenues, just to give you a sense, it is a record revenue performance, you of about 35% year on year - fashion and lifestyle and groceries have registered all-time highs. And as trading conditions have improved, as footfalls have improved, as stores have been allowed to operate, clearly businesses are coming back, had started to come back to their normal rhythm. A very strong growth in consumer electronics, and you just heard Anshuman talk about the relaunch of JioPhone, and that clearly has helped boost the performance of consumer electronics. So, stepped up device sales that hadn\\'t happened for the last few quarters, but clearly a big factor that has boosted the performance of electronics in this quarter. Digital and new commerce is now 10% of our sales, you know, and this is fundamentally businesses that we did not have, right up until 12 months back, wasn\\'t sizable, and today is about 10% of our business with exit run rates clearly much higher and growing fast.",
+       "sentiment":"POS",
+       "postivePharses":[
+          " And as trading conditions have improved, as footfalls have improved, as stores have been allowed to operate, clearly businesses are coming back, had started to come back to their normal rhythm",
+          " A very strong growth in consumer electronics, and you just heard Anshuman talk about the relaunch of JioPhone, and that clearly has helped boost the performance of consumer electronics",
+          " Digital and new commerce is now 10% of our sales, you know, and this is fundamentally businesses that we did not have, right up until 12 months back, wasn\\'t sizable, and today is about 10% of our business with exit run rates clearly much higher and growing fast"
+       ],
+       "negativePharses":[
+          "So, talking a little bit about revenues, just to give you a sense, it is a record revenue performance, you of about 35% year on year - fashion and lifestyle and groceries have registered all-time highs",
+          " So, stepped up device sales that hadn\\'t happened for the last few quarters, but clearly a big factor that has boosted the performance of electronics in this quarter"
+       ]
+    },
+    {
+       "Review":"We\\'ve had a drag from the transfer of the petro-retailing business, that\\'s about three to three and a half thousand crores for the quarter and I want to call that out specifically because it is a significant impact, but as you would have made out from our headline numbers, that\\'s been made up from new streams and businesses that we\\'ve been coming up with.",
+       "sentiment":"NEG",
+       "postivePharses":[
+          "We\\'ve had a drag from the transfer of the petro-retailing business, that\\'s about three to three and a half thousand crores for the quarter and I want to call that out specifically because it is a significant impact, but as you would have made out from our headline numbers, that\\'s been made up from new streams and businesses that we\\'ve been coming up with"
+       ],
+       "negativePharses":[
+          
+       ]
+    },
+    {
+       "Review":"On profit, resilient profit, it\\'s now a couple of quarters where we\\'ve spoken about all-time highs. In actual 41% up EBITDA this quarter over the last year, led by consumer electronics clearly, the fact that devices sales have come back to the rhythm that we might have been used to seeing in the past has enabled the consumer electronics business to double its EBITDA. The benefit of cost management initiatives that we embarked on earlier in the year, have continued to play out and you\\'ve heard us talk about this quarter-after-quarter, very important to remind ourselves that for retailing business, it\\'s just so important especially when there\\'s a potential for operating deleverage as revenues go and therefore we embarked on this, and that really giving out some benefits now. The boost has come from higher investment income and margins have been maintained despite all the operating challenges that we\\'ve gone through and the limitations that we\\'ve had to operate in.",
+       "sentiment":"POS",
+       "postivePharses":[
+          " The benefit of cost management initiatives that we embarked on earlier in the year, have continued to play out and you\\'ve heard us talk about this quarter-after-quarter, very important to remind ourselves that for retailing business, it\\'s just so important especially when there\\'s a potential for operating deleverage as revenues go and therefore we embarked on this, and that really giving out some benefits now",
+          " The boost has come from higher investment income and margins have been maintained despite all the operating challenges that we\\'ve gone through and the limitations that we\\'ve had to operate in"
+       ],
+       "negativePharses":[
+          " In actual 41% up EBITDA this quarter over the last year, led by consumer electronics clearly, the fact that devices sales have come back to the rhythm that we might have been used to seeing in the past has enabled the consumer electronics business to double its EBITDA"
+       ]
+    },
+    {
+       "Review":"So, the quick financial summary for the quarter revenues of about 47,000 crores was up 24% over last quarter, and 23% over the previous quarter. This is headline revenues EBITDA at a new high of Rs 3600 crores. Last quarter was the first time we breached Rs 3000 crores, that was a new milestone in itself. And we bettered that and profit after tax represents a new high at Rs 2247 crores, which is up 45% over same time last year.",
+       "sentiment":"NEG",
+       "postivePharses":[
+          "So, the quick financial summary for the quarter revenues of about 47,000 crores was up 24% over last quarter, and 23% over the previous quarter",
+          " This is headline revenues EBITDA at a new high of Rs 3600 crores",
+          " Last quarter was the first time we breached Rs 3000 crores, that was a new milestone in itself",
+          " And we bettered that and profit after tax represents a new high at Rs 2247 crores, which is up 45% over same time last year"
+       ],
+       "negativePharses":[
+          
+       ]
+    },
+    {
+       "Review":"This is the point I was making on accelerating store expansion, and we\\'ve started to build this rhythm. We had stopped because of the limitations in the first quarter operating curbs. And then as quarters two and three, we were allowed to operate, we were getting the rhythm back then in quarter four. We\\'ve opened about 800+ stores, and we were poised to open an even larger number in the current quarter, but of course will now need to wait and see where that goes. But the rhythm on store opening is back and the point I want to mention is notably, if you look across retailers anywhere around the world, it\\'s unlikely that you would find too many who would talk about store expansion of this order of magnitude or offline expansion of this order of magnitude in a COVID-constrained era. So, I think clearly a notable point to call out on that one, as we\\'ve opened about a little under 1500 stores in this last financial year, taking the store count to about 12,700 odd stores.",
+       "sentiment":"POS",
+       "postivePharses":[
+          " We had stopped because of the limitations in the first quarter operating curbs",
+          " But the rhythm on store opening is back and the point I want to mention is notably, if you look across retailers anywhere around the world, it\\'s unlikely that you would find too many who would talk about store expansion of this order of magnitude or offline expansion of this order of magnitude in a COVID-constrained era",
+          " So, I think clearly a notable point to call out on that one, as we\\'ve opened about a little under 1500 stores in this last financial year, taking the store count to about 12,700 odd stores"
+       ],
+       "negativePharses":[
+          
+       ]
+    }
+ ]

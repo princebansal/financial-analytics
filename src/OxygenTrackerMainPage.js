@@ -9,49 +9,17 @@ function OxygenTrackerMainPage(props) {
   const [cities, setCities] = useState({});
   const [hospitals, setHospitals] = useState(null);
   const [selectedCity, setSelectedCity] = useState(null);
-  const { user, firebaseRef } = props;
+  const { user } = props;
   useEffect(() => {
     loadCities();
   });
 
   function loadCities() {
-    props.firebaseRef
-      .database()
-      .ref()
-      .child("cities")
-      .get()
-      .then((snapshot) => {
-        if (snapshot.exists()) {
-          setCities(snapshot.val());
-        } else {
-          setCities({});
-        }
-      })
-      .catch((error) => {
-        message.info("No data available");
-        setCities({});
-      });
+    
   }
 
   function loadHospitals(cityId) {
-    props.firebaseRef
-      .database()
-      .ref()
-      .child("hospitals")
-      .child(cityId)
-      .get()
-      .then((snapshot) => {
-        if (snapshot.exists()) {
-          setHospitals(snapshot.val());
-        } else {
-          setHospitals({});
-        }
-      })
-      .catch((error) => {
-        console.log(error);
-        message.info("No hospitals found");
-        setHospitals(null);
-      });
+    
   }
 
   function onChange(value) {
@@ -84,7 +52,6 @@ function OxygenTrackerMainPage(props) {
             <OxygenTrackerResults
               results={hospitals}
               user={user}
-              firebaseRef={firebaseRef}
               cityId={selectedCity}
             />
           )}
